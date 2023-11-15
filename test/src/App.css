@@ -1,0 +1,30 @@
+body {
+  background-image: linear-gradient(darkblue, black);
+}
+
+.sect1 {
+  display: grid;
+  padding: 30px;
+}
+
+.sect2 {
+  display: grid;
+  padding: 30px;
+}
+
+.sect3 {
+  display: grid;
+  padding: 30px;
+}
+
+button {
+  margin-right: 800px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+
+figcaption {
+  display: none;
+  color: white;
+  text-align: left;
+}
