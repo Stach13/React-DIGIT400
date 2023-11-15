@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Stach13/React-DIGIT400.git/static/css/main.2367da23.css",
+    "main.js": "/Stach13/React-DIGIT400.git/static/js/main.b51c50e6.js",
+    "static/js/787.88dfdeb5.chunk.js": "/Stach13/React-DIGIT400.git/static/js/787.88dfdeb5.chunk.js",
+    "static/media/dog.jpg": "/Stach13/React-DIGIT400.git/static/media/dog.2c576503bb313fe34fda.jpg",
+    "static/media/flower1.jpg": "/Stach13/React-DIGIT400.git/static/media/flower1.90075da2446409b85a73.jpg",
+    "static/media/flower2.jpg": "/Stach13/React-DIGIT400.git/static/media/flower2.f361b23f896889cc8fcc.jpg",
+    "index.html": "/Stach13/React-DIGIT400.git/index.html",
+    "main.2367da23.css.map": "/Stach13/React-DIGIT400.git/static/css/main.2367da23.css.map",
+    "main.b51c50e6.js.map": "/Stach13/React-DIGIT400.git/static/js/main.b51c50e6.js.map",
+    "787.88dfdeb5.chunk.js.map": "/Stach13/React-DIGIT400.git/static/js/787.88dfdeb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2367da23.css",
+    "static/js/main.b51c50e6.js"
+  ]
+}
