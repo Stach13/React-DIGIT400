@@ -17,6 +17,7 @@ const handleClick = () => {
     }
 
 }
+//commit
 function Image(){
     return (
         <div className="gallery">
